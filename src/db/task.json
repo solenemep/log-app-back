@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1,
+    "user_id": 1,
+    "title": "task",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit",
+    "creation_date": "2022-09-04T16:33:23.328Z",
+    "status": "done"
+  },
+  {
+    "id": 2,
+    "user_id": 2,
+    "title": "task",
+    "description": "Assumenda, quia temporibus eveniet a libero incidunt suscipit",
+    "creation_date": "2022-09-04T16:33:23.328Z",
+    "status": "to do"
+  },
+  {
+    "id": 3,
+    "user_id": 1,
+    "title": "task",
+    "description": "Quidem, ipsam illum quis sed voluptatum quae eum fugit earum",
+    "creation_date": "2022-09-04T16:33:23.328Z",
+    "status": "to do"
+  }
+]
